@@ -19,8 +19,10 @@ body {
 }
 
 #logo path:nth-of-type(1) {
-  stroke-dasharray: 419;
-  stroke-dashoffset: 419;
+  /* stroke-dasharray: 419;
+  stroke-dashoffset: 419; */
+  stroke-dasharray: 486;
+  stroke-dashoffset: 486;
   animation-name: line-anim;
   animation-duration: 2s;
   animation-timing-function: ease;
